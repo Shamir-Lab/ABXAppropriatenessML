@@ -1,0 +1,23 @@
+{
+  "SPUTUM": "Sputum",
+  "STOOL": "Stool",
+  "SWAB": "Swab",
+  "BLOOD CULTURE": "Blood",
+  "FLUID RECEIVED IN BLOOD CULTURE BOTTLES": "Blood",
+  "BLOOD CULTURE ( MYCO/F LYTIC BOTTLE)": "Blood",
+  "URINE": "Urine",
+  "URINE,KIDNEY": "Urine",
+  "CATHETER TIP-IV": "Catheter",
+  "URINE,SUPRAPUBIC ASPIRATE": "Urine",
+  "BLOOD CULTURE (POST-MORTEM)": "Blood",
+  "BRONCHOALVEOLAR LAVAGE": "Bronchial Lavage",
+  "ABSCESS": "Abscess",
+  "CSF;SPINAL FLUID": "Csf;Spinal Fluid",
+  "FLUID,OTHER": "Other Fluid",
+  "JOINT FLUID": "Joint Fluid",
+  "PERITONEAL FLUID": "Peritoneal Fluid",
+  "PLEURAL FLUID": "Pleural Fluid",
+  "Mini-BAL": "Mini-Bal",
+  "TISSUE": "Tissue",
+  "MRSA SCREEN": "MRSA Screen"
+}
